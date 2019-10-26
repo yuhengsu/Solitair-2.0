@@ -1,1 +1,1 @@
-# Solitair-2.0
+# Solitaire-2.0
